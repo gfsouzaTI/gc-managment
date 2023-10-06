@@ -1,0 +1,2 @@
+# gc-managment
+Aplicação MAUI
